@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=45", "setuptools_scm>=6.2", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sparselib"
+version = "1.0.0"
+authors = [
+  { name="Parker Ewen", email="parker.ewen5441@gmail.com" },
+]
+description = "Sparse spectral discretization for linear advection."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "argparse",
+    "pyyaml",
+	"numpy==1.24.2",
+    "matplotlib"
+]
+
