@@ -1,0 +1,5 @@
+*.npy
+sparselib.egg-info/
+build/
+*.png
+debug/
