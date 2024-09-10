@@ -1,0 +1,18 @@
+[project]
+name = "sparselib"
+version = "1.0.0"
+authors = [
+  { name="Parker Ewen", email="parker.ewen5441@gmail.com" },
+]
+description = "A library for invariant preserving, sparse uncertainty propagation."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/roahmlab/sparselib"
+Issues = "https://github.com/roahmlab/sparselib/issues"
