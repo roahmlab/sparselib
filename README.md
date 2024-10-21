@@ -1,4 +1,4 @@
-# Uncertainty Propagation Using Half-Densities Via Sparse Spectral Discretization on Compact Manifolds
+# An Invariant Preserving Sparse Spectral Discretization of the Continuum Equation
 Parker Ewen, Lucas Lymburner, Henry Jacobs, Ram Vasudevan<br>
 | [Webpage](https://roahmlab.github.io/sparselib_page/) | [Full Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf)<br>
 <p align="center">
